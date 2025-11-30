@@ -73,7 +73,7 @@ Rakuzan - это приложение, которое собирает, анал
 ## Структура проекта
 
 ```
-rakuzan/
+rakuzan_web/
 ├── app.py                 # Основной Flask-приложение
 ├── config.py              # Конфигурация приложения
 ├── requirements.txt       # Зависимости Python
