@@ -52,7 +52,6 @@ Rakuzan - это приложение, которое собирает, анал
    YOUTUBE_TARGET_CHANNEL_ID=ID_целевого_канала_YouTube
    REDDIT_USER_AGENT=ваш_user_agent_Reddit
    MWS_API_TOKEN=ваш_токен_MWS_API
-   SECRET_KEY=ваш_секретный_ключ
    ```
 
 ## Использование
