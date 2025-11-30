@@ -36,7 +36,7 @@ Rakuzan - это приложение, которое собирает, анал
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
+   git clone https://github.com/sxvxmx/rakuzan_web.git
    cd rakuzan
    ```
 
